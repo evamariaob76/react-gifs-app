@@ -3,13 +3,8 @@ import {GifGridItem} from './GifGridItem'
 import { useFecthGifs } from '../hooks/useFecthGifs'
 
 export const GifGrid = ({category}) => {
-    //const [images, setimages] = useState([])
 
     const { data :images, loading}= useFecthGifs(category);
-
-
-    //const [count, setcount] = useState(0);
-
 
     
     return (
