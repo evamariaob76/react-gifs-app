@@ -1,6 +1,5 @@
 import React  from 'react'
 import {GifGridItem} from './GifGridItem'
-import{getGifs} from '../componentes/helpers/getGigs'
 import { useFecthGifs } from '../hooks/useFecthGifs'
 
 export const GifGrid = ({category}) => {
