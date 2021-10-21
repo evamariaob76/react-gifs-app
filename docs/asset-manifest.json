@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/evamariaob76/react-gifs-app.git/static/css/main.486c6f99.chunk.css",
+    "main.js": "/evamariaob76/react-gifs-app.git/static/js/main.938a91e1.chunk.js",
+    "main.js.map": "/evamariaob76/react-gifs-app.git/static/js/main.938a91e1.chunk.js.map",
+    "runtime-main.js": "/evamariaob76/react-gifs-app.git/static/js/runtime-main.bc04a5e7.js",
+    "runtime-main.js.map": "/evamariaob76/react-gifs-app.git/static/js/runtime-main.bc04a5e7.js.map",
+    "static/js/2.046223b3.chunk.js": "/evamariaob76/react-gifs-app.git/static/js/2.046223b3.chunk.js",
+    "static/js/2.046223b3.chunk.js.map": "/evamariaob76/react-gifs-app.git/static/js/2.046223b3.chunk.js.map",
+    "index.html": "/evamariaob76/react-gifs-app.git/index.html",
+    "static/css/main.486c6f99.chunk.css.map": "/evamariaob76/react-gifs-app.git/static/css/main.486c6f99.chunk.css.map",
+    "static/js/2.046223b3.chunk.js.LICENSE.txt": "/evamariaob76/react-gifs-app.git/static/js/2.046223b3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc04a5e7.js",
+    "static/js/2.046223b3.chunk.js",
+    "static/css/main.486c6f99.chunk.css",
+    "static/js/main.938a91e1.chunk.js"
+  ]
+}
