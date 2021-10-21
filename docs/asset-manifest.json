@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/evamariaob76/react-gifs-app/static/css/main.486c6f99.chunk.css",
-    "main.js": "/evamariaob76/react-gifs-app/static/js/main.938a91e1.chunk.js",
-    "main.js.map": "/evamariaob76/react-gifs-app/static/js/main.938a91e1.chunk.js.map",
-    "runtime-main.js": "/evamariaob76/react-gifs-app/static/js/runtime-main.48865398.js",
-    "runtime-main.js.map": "/evamariaob76/react-gifs-app/static/js/runtime-main.48865398.js.map",
-    "static/js/2.046223b3.chunk.js": "/evamariaob76/react-gifs-app/static/js/2.046223b3.chunk.js",
-    "static/js/2.046223b3.chunk.js.map": "/evamariaob76/react-gifs-app/static/js/2.046223b3.chunk.js.map",
-    "index.html": "/evamariaob76/react-gifs-app/index.html",
-    "static/css/main.486c6f99.chunk.css.map": "/evamariaob76/react-gifs-app/static/css/main.486c6f99.chunk.css.map",
-    "static/js/2.046223b3.chunk.js.LICENSE.txt": "/evamariaob76/react-gifs-app/static/js/2.046223b3.chunk.js.LICENSE.txt"
+    "main.css": "/evamariaob76/react-gifs-app.com/static/css/main.486c6f99.chunk.css",
+    "main.js": "/evamariaob76/react-gifs-app.com/static/js/main.938a91e1.chunk.js",
+    "main.js.map": "/evamariaob76/react-gifs-app.com/static/js/main.938a91e1.chunk.js.map",
+    "runtime-main.js": "/evamariaob76/react-gifs-app.com/static/js/runtime-main.3e5604c3.js",
+    "runtime-main.js.map": "/evamariaob76/react-gifs-app.com/static/js/runtime-main.3e5604c3.js.map",
+    "static/js/2.046223b3.chunk.js": "/evamariaob76/react-gifs-app.com/static/js/2.046223b3.chunk.js",
+    "static/js/2.046223b3.chunk.js.map": "/evamariaob76/react-gifs-app.com/static/js/2.046223b3.chunk.js.map",
+    "index.html": "/evamariaob76/react-gifs-app.com/index.html",
+    "static/css/main.486c6f99.chunk.css.map": "/evamariaob76/react-gifs-app.com/static/css/main.486c6f99.chunk.css.map",
+    "static/js/2.046223b3.chunk.js.LICENSE.txt": "/evamariaob76/react-gifs-app.com/static/js/2.046223b3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.48865398.js",
+    "static/js/runtime-main.3e5604c3.js",
     "static/js/2.046223b3.chunk.js",
     "static/css/main.486c6f99.chunk.css",
     "static/js/main.938a91e1.chunk.js"
